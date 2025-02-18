@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="32" viewBox="0 0 160 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Corn Icon -->
+  <circle cx="16" cy="16" r="16" fill="#78350F"/>
+  <circle cx="16" cy="16" r="12" fill="#F59E0B"/>
+  <circle cx="16" cy="16" r="8" fill="#78350F"/>
+  
+  <!-- MAIZ Text -->
+  <text x="40" y="22" font-family="Inter" font-weight="700" font-size="20" letter-spacing="-0.02em" fill="#78350F">MAIZ</text>
+  <!-- .crypto Text -->
+  <text x="85" y="22" font-family="Inter" font-weight="700" font-size="20" letter-spacing="-0.02em" fill="#F59E0B">.crypto</text>
+</svg>

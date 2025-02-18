@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180" height="40" viewBox="0 0 180 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Corn Icon -->
+  <circle cx="20" cy="20" r="20" fill="#78350F"/>
+  <circle cx="20" cy="20" r="14" fill="#F59E0B"/>
+  
+  <!-- MAIZ.crypto Text -->
+  <path d="M50 24L54 12H56L60 24H58L57 21H53L52 24H50ZM53.5 19H56.5L55 14L53.5 19Z" fill="#78350F"/>
+  <path d="M61 24V12H63V22H67V24H61Z" fill="#78350F"/>
+  <path d="M68 24V12H70V17L73 12H75L72 17L75 24H73L71 19L70 21V24H68Z" fill="#78350F"/>
+  <path d="M76 24V12H78V22H82V24H76Z" fill="#78350F"/>
+  <path d="M83 24V23H84V13H83V12H87V13H86V23H87V24H83Z" fill="#F59E0B"/>
+  <path d="M88 24V12H94V14H90V17H93V19H90V22H94V24H88Z" fill="#F59E0B"/>
+  <path d="M95 24V12H97V17H99V12H101V24H99V19H97V24H95Z" fill="#F59E0B"/>
+  <path d="M102 24V12H104V17L107 12H109L106 17L109 24H107L105 19L104 21V24H102Z" fill="#F59E0B"/>
+  <path d="M110 24V12H112V22H116V24H110Z" fill="#F59E0B"/>
+</svg>

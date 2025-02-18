@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Corn Icon -->
+  <g transform="translate(0,4)">
+    <path d="M16 4C10 4 4 10 4 16C4 22 10 28 16 28C22 28 28 22 28 16C28 10 22 4 16 4Z" fill="#F59E0B"/>
+    <path d="M16 8C12 8 8 12 8 16C8 20 12 24 16 24C20 24 24 20 24 16C24 12 20 8 16 8Z" fill="#FCD34D"/>
+    <path d="M16 12C14 12 12 14 12 16C12 18 14 20 16 20C18 20 20 18 20 16C20 14 18 12 16 12Z" fill="#F59E0B"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="40" y="24" font-family="Arial Black" font-size="24" fill="#78350F">
+    MAIZ
+  </text>
+</svg>
